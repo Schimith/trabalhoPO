@@ -17,7 +17,7 @@ public class main {
 		
 		HeapSort.ordem(vet);
 		
-		System.out.print("Lista ordenada: ");
+		System.out.print("Lista ordenada - Teste de alteração: ");
 		for(int i:vet) {
 			System.out.print(i+" ");
 		}
