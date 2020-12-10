@@ -1,5 +1,0 @@
-package avl;
-
-class avl {
-
-}
